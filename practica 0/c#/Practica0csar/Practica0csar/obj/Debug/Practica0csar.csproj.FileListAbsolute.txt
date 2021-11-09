@@ -1,0 +1,7 @@
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\bin\Debug\Practica0csar.exe.config
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\bin\Debug\Practica0csar.exe
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\bin\Debug\Practica0csar.pdb
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\obj\Debug\Practica0csar.csprojAssemblyReference.cache
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\obj\Debug\Practica0csar.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\obj\Debug\Practica0csar.exe
+C:\Users\Equipo\OneDrive\Escritorio\Universidad\Segundo año\Estructura de datos y algoritmos\Practica0\Practica0csar\Practica0csar\obj\Debug\Practica0csar.pdb
